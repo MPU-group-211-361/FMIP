@@ -1,1 +1,1 @@
-# FMIP
+# Fundamentals of Modeling Information Processes
